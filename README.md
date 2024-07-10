@@ -18,3 +18,5 @@ $ make test
 последний код 
 https://github.com/KoIIuJIkA/wtf
 
+https://github.com/KoIIuJIkA/test_py
+
