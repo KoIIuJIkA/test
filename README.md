@@ -14,3 +14,7 @@ $ make test
 
 
 Я перехожу на 4, могу и диплом о сетях написать:)
+
+последний код 
+https://github.com/KoIIuJIkA/wtf
+
